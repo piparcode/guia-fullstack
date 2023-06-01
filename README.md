@@ -19,7 +19,7 @@ Esta guía te llevará a través de los diferentes aspectos del desarrollo Fulls
 
 ### 🚀 Introducción a la programación
 
-- [Fundamentos de la programación](https://github.com/piparcode)
+- [Fundamentos de la programación](https://github.com/piparcode/guia-fullstack/blob/master/seccion-basica/introduccion-programacion/fundamentos-programacion.md)
 - [Lógica de la programación](https://github.com/piparcode)
 - [Estructuras de control (condicionales, bucles)](https://github.com/piparcode)
 - **[Desafíos para mejorar la lógica](https://github.com/piparcode)**
